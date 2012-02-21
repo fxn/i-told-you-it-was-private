@@ -17,3 +17,5 @@ those losers in their place:
     end
 
 And contemplate your **revenge**.
+
+[![Build Status](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)
