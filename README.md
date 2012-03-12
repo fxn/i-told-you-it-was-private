@@ -5,7 +5,7 @@ When you, beloved library author, remove private methods, praise and glory shoul
 come in hordes for gardening your code with such dedication and pursuit of
 pristine end-user interfaces and overall library perfection.
 
-What you face instead is hordes of complains because some frickin lazy people
+What you face instead is hordes of complaints because some frickin lazy people
 call themselves rebels, resist any kind of authority, and have access to the
 source code, so to the hell with the contract, they say.
 
