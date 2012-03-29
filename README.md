@@ -18,4 +18,6 @@ those losers in their place:
 
 And contemplate your **revenge**.
 
+**Warning**: This can potentially break or delete files from your system. Use at your own risk.
+
 [![Build Status](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)
