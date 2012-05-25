@@ -18,4 +18,4 @@ those losers in their place:
 
 And contemplate your **revenge**.
 
-[![Build Status](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)
+[![Build Status](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)](http://travis-ci.org/fxn/i-told-you-it-was-private)
