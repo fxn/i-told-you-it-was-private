@@ -1,5 +1,4 @@
-I Told You it Was Private
-=========================
+# I Told You it Was Private
 
 When you, beloved library author, remove private methods, praise and glory should
 come in hordes for gardening your code with such dedication and pursuit of
@@ -19,3 +18,7 @@ those losers in their place:
 And contemplate your **revenge**.
 
 [![Build Status](https://secure.travis-ci.org/fxn/i-told-you-it-was-private.png)](http://travis-ci.org/fxn/i-told-you-it-was-private)
+
+## License
+
+Released under the MIT License, Copyright (c) 2012–ω Xavier Noria.
