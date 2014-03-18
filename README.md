@@ -17,7 +17,7 @@ those losers in their place:
 
 And contemplate your **revenge**.
 
-[![Extreme Quality Badge](http://img.shields.io/badge/wadus-chaflan-green.svg)
+![Extreme Quality Badge](http://img.shields.io/badge/wadus-chaflan-brightgreen.svg)
 
 ## License
 
