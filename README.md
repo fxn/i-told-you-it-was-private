@@ -17,7 +17,9 @@ those losers in their place:
 
 And contemplate your **revenge**.
 
-![Extreme Quality Badge](http://img.shields.io/badge/wadus-chaflan-brightgreen.svg)
+# Quality Badge
+
+This is the only badge that guarantees superior quality:  ![Superior Quality Badge](http://img.shields.io/badge/wadus-chaflan-brightgreen.svg).
 
 ## License
 
