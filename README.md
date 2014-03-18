@@ -19,7 +19,7 @@ And contemplate your **revenge**.
 
 ## Quality Badge
 
-This guarantees superior quality:
+This badge guarantees superior quality:
 
 ![Superior Quality Badge](http://img.shields.io/badge/wadus-chaflan-brightgreen.svg)
 
