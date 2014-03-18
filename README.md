@@ -17,9 +17,11 @@ those losers in their place:
 
 And contemplate your **revenge**.
 
-# Quality Badge
+## Quality Badge
 
-This is the only badge that guarantees superior quality:  ![Superior Quality Badge](http://img.shields.io/badge/wadus-chaflan-brightgreen.svg).
+This guarantees superior quality:
+
+![Superior Quality Badge](http://img.shields.io/badge/wadus-chaflan-brightgreen.svg)
 
 ## License
 
