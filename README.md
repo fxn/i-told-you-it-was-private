@@ -25,4 +25,4 @@ This badge guarantees superior quality:
 
 ## License
 
-Released under the MIT License, Copyright (c) 2012–ω Xavier Noria.
+Released under the MIT License, Copyright (c) 2012–<i>ω</i> Xavier Noria.
