@@ -36,4 +36,20 @@ class TestPunishment < MiniTest::Unit::TestCase
       FileUtils.rm_f('poor_guy.rb')
     end
   end
+
+  def test_file_name_includes_a_colon
+    Dir.chdir(File.dirname(__FILE__)) do
+      File.write('offender:is_bad.rb', 'C.new.p')
+
+      load 'offender:is_bad.rb'
+
+      assert !File.exist?('offender:is_bad.rb')
+    end
+  end
+
+  def test_caller_is_not_a_file
+    Dir.chdir(File.dirname(__FILE__)) do
+      eval 'C.new.p'
+    end
+  end
 end
