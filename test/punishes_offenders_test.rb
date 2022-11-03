@@ -12,7 +12,7 @@ class TestPunishment < MiniTest::Unit::TestCase
     Dir.chdir(File.dirname(__FILE__)) do
       File.write('offender.rb', 'C.new.p')
       load 'offender.rb'
-      assert !File.exists?('offender.rb')
+      assert !File.exist?('offender.rb')
     end
   end
 
@@ -30,8 +30,8 @@ class TestPunishment < MiniTest::Unit::TestCase
       load 'offender.rb'
       load 'poor_guy.rb'
 
-      assert File.exists?('poor_guy.rb')
-      assert !File.exists?('offender.rb')
+      assert File.exist?('poor_guy.rb')
+      assert !File.exist?('offender.rb')
 
       FileUtils.rm_f('poor_guy.rb')
     end
